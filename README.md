@@ -22,3 +22,6 @@ Instead of using purely random lines, this simulator relies on mathematical mode
 * **Language:** Python
 * **Libraries:** Pygame, Sys, Random
 * **Core Concepts:** Vector mathematics, Recursion, Random distributions, Atmospheric physics.
+### Installation
+To run the simulator, you need to install Pygame. Open your terminal and type:
+pip install pygame
