@@ -106,15 +106,6 @@ lightning-simulator-2d/
 - **Memory Usage:** Minimal (~50MB)
 - **CPU:** Low usage, suitable for all systems
 
-## Future Enhancements
-
-- [ ] Multiple simultaneous lightning bolts
-- [ ] Storm intensity control
-- [ ] Different lightning colors (blue, red, green)
-- [ ] Camera zoom and pan
-- [ ] Statistics display (number of strikes, bolt length, etc.)
-- [ ] Different weather conditions
-
 ## License
 
 This project is open source and available under the MIT License.
