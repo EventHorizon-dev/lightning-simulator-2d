@@ -2,10 +2,6 @@
 
 A physics-based 2D lightning simulator that uses mathematical formulas to generate unique, realistic lightning bolts with synchronized visual flashes and audio effects.
 
-## 🎬 Demo
-
-![Lightning Simulator Demo](gifs/lightning-demo.gif)
-
 ## Physics & Mathematics Behind the Simulation
 
 Instead of using purely random lines, this simulator relies on mathematical models to recreate the natural, fractal behavior of an electrical discharge in the atmosphere.
@@ -94,8 +90,6 @@ Branch Probability = 5%   # Chance of branching per segment
 lightning-simulator-2d/
 ├── simulateur de foudre.py    # Main simulator script
 ├── tonnerre.wav               # Thunder audio file
-├── generate_lightning_gif.py   # GIF generation script
-├── gifs/                       # Generated demo GIFs
 └── README.md
 ```
 
@@ -105,6 +99,15 @@ lightning-simulator-2d/
 - **Resolution:** 800x600 pixels
 - **Memory Usage:** Minimal (~50MB)
 - **CPU:** Low usage, suitable for all systems
+
+## Future Enhancements
+
+- [ ] Multiple simultaneous lightning bolts
+- [ ] Storm intensity control
+- [ ] Different lightning colors (blue, red, green)
+- [ ] Camera zoom and pan
+- [ ] Statistics display (number of strikes, bolt length, etc.)
+- [ ] Different weather conditions
 
 ## License
 
